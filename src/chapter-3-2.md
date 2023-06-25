@@ -1,5 +1,4 @@
-Chapter 3: Understanding Integrity: Identifying Types of Integrity
-==================================================================
+# Identifying Types of Integrity
 
 Integrity is a critical component of building a culture of integrity and ethics. In this chapter, we will explore different types of integrity and how they apply in the workplace.
 

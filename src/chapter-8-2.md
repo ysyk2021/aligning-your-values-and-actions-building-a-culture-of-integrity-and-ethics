@@ -1,5 +1,4 @@
-Chapter 8: Addressing Ethical Issues in the Workplace: Creating an Ethical Decision-Making Framework
-====================================================================================================
+# Creating an Ethical Decision-Making Framework
 
 In this chapter, we will explore the importance of creating an ethical decision-making framework for addressing ethical issues in the workplace. An ethical decision-making framework provides a structured approach for identifying and resolving ethical dilemmas.
 

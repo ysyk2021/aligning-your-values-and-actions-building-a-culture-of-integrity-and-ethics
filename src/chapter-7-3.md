@@ -1,5 +1,4 @@
-Chapter 7: Building a Culture of Integrity and Ethics: Measuring and Evaluating Integrity and Ethics
-====================================================================================================
+# Measuring and Evaluating Integrity and Ethics
 
 Building a culture of integrity and ethics requires ongoing measurement and evaluation. In this chapter, we will explore techniques for measuring and evaluating integrity and ethics in the workplace.
 

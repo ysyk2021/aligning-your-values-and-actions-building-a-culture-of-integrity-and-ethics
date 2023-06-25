@@ -1,5 +1,4 @@
-Chapter 4: Understanding Ethics: Identifying Types of Ethical Issues
-====================================================================
+# Identifying Types of Ethical Issues
 
 Understanding ethics is critical for building a culture of integrity and ethics. In this chapter, we will explore different types of ethical issues that may arise in the workplace.
 

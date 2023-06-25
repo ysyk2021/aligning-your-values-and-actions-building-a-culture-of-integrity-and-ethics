@@ -1,5 +1,4 @@
-Chapter 5: Promoting Integrity and Ethics in the Workplace: Establishing Clear Standards and Expectations
-=========================================================================================================
+# Establishing Clear Standards and Expectations
 
 In this chapter, we will explore the importance of establishing clear standards and expectations for promoting integrity and ethics in the workplace. By setting clear expectations for ethical behavior and decision-making, organizations can promote a culture of integrity and ethics.
 

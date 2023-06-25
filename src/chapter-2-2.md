@@ -1,5 +1,4 @@
-Chapter 2: Overview of Integrity and Ethics in the Workplace: The Impact of Integrity and Ethics on Organizational Performance
-==============================================================================================================================
+# The Impact of Integrity and Ethics on Organizational Performance
 
 In this chapter, we will explore the impact of integrity and ethics on organizational performance. By understanding the benefits of promoting integrity and ethics, organizations can make a stronger business case for prioritizing ethical behavior.
 

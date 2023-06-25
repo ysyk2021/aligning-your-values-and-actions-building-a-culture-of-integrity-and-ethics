@@ -1,5 +1,4 @@
-Chapter 2: Overview of Integrity and Ethics in the Workplace: Techniques for Overcoming Common Challenges in Building a Culture of Integrity and Ethics
-=======================================================================================================================================================
+# Techniques for Overcoming Common Challenges in Building a Culture of Integrity and Ethics
 
 Building a culture of integrity and ethics in the workplace can be challenging. In this chapter, we will explore some common challenges that organizations face when trying to promote integrity and ethics, as well as techniques for overcoming these challenges.
 

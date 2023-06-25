@@ -1,5 +1,4 @@
-Chapter 7: Building a Culture of Integrity and Ethics: Incorporating Integrity and Ethics into Organizational Values
-====================================================================================================================
+# Incorporating Integrity and Ethics into Organizational Values
 
 In this chapter, we will explore the importance of incorporating integrity and ethics into organizational values. By making ethical behavior and decision-making a central part of organizational values, leaders can create a foundation for a culture of integrity and ethics.
 

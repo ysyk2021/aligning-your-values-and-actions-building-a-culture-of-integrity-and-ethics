@@ -1,5 +1,4 @@
-Chapter 7: Building a Culture of Integrity and Ethics: Techniques for Building a Culture of Integrity and Ethics
-================================================================================================================
+# Techniques for Building a Culture of Integrity and Ethics
 
 In this chapter, we will explore techniques for building a culture of integrity and ethics in the workplace. A culture of integrity and ethics is critical for promoting organizational success, and by utilizing these techniques, organizations can create an environment where ethical behavior is valued and expected.
 

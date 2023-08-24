@@ -1,4 +1,3 @@
-# Techniques for Understanding Integrity
 
 Understanding integrity is critical for building a culture of integrity and ethics. In this chapter, we will explore techniques for understanding integrity and incorporating integrity into organizational decision-making.
 

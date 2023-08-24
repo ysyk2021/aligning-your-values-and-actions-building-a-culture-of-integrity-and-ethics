@@ -1,4 +1,3 @@
-# Managing Conflicts of Interest
 
 In this chapter, we will explore techniques for managing conflicts of interest in the workplace. Conflicts of interest can arise when an individual's personal interests interfere with their professional responsibilities, and addressing these conflicts is critical for maintaining a culture of integrity and ethics.
 

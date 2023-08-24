@@ -1,4 +1,3 @@
-# Encouraging Transparency and Honesty
 
 In this chapter, we will explore the importance of leading with integrity and ethics, specifically by encouraging transparency and honesty in the workplace. By promoting these values, leaders can create a culture where ethical behavior is valued and expected.
 

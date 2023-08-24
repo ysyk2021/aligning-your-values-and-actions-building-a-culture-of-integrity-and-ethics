@@ -1,4 +1,3 @@
-# Celebrating Success
 
 In this chapter, we will explore the importance of celebrating success in sustaining a culture of integrity and ethics in the workplace. By recognizing and celebrating ethical behavior and decision-making, organizations can reinforce the importance of ethical values and promote a culture of integrity and ethics.
 

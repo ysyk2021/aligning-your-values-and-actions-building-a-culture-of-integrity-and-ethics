@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the importance of building a culture of integrity and ethics in the workplace. We will also explore the benefits and challenges of aligning values and actions, as well as why understanding the role of integrity and ethics is critical for organizational success.
 

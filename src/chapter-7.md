@@ -1,5 +1,3 @@
-Chapter 7: Building a Culture of Integrity and Ethics
-=====================================================
 
 In this chapter, we will explore the importance of building a culture of integrity and ethics in the workplace. A culture of integrity and ethics is critical for promoting organizational success, and by utilizing specific techniques, organizations can create an environment where ethical behavior is valued and expected.
 

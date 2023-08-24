@@ -1,4 +1,3 @@
-# Techniques for Addressing Ethical Issues in the Workplace
 
 In this chapter, we will explore specific techniques for addressing ethical issues in the workplace. By utilizing these techniques, organizations can identify and resolve ethical dilemmas in a consistent and transparent manner.
 

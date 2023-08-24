@@ -1,5 +1,3 @@
-Chapter 5: Promoting Integrity and Ethics in the Workplace
-==========================================================
 
 Promoting integrity and ethics in the workplace is critical for building a culture of integrity and ethics. In this chapter, we will explore techniques for promoting integrity and ethics in the workplace, including establishing clear standards and expectations and providing training and development.
 

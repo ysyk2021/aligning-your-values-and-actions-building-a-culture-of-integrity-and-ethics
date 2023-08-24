@@ -1,4 +1,3 @@
-# Exploring the Relationship between Ethics and Organizational Culture
 
 Ethics and organizational culture are deeply intertwined. In this chapter, we will explore the relationship between ethics and organizational culture and how organizations can build a culture of integrity and ethics.
 

@@ -1,4 +1,3 @@
-# Creating an Ethical Decision-Making Framework
 
 In this chapter, we will explore the importance of creating an ethical decision-making framework for addressing ethical issues in the workplace. An ethical decision-making framework provides a structured approach for identifying and resolving ethical dilemmas.
 
@@ -38,5 +37,4 @@ Conclusion
 ----------
 
 In conclusion, creating an ethical decision-making framework is essential for addressing ethical issues in the workplace. By defining the problem, gathering information, considering alternatives, making a decision, implementing the decision, and evaluating the outcome, organizations can ensure that ethical dilemmas are addressed consistently and transparently. By incorporating organizational values and principles and providing education and training on ethical decision-making, organizations can promote a culture of integrity and ethics in the workplace. By upholding their responsibility to stakeholders and society as a whole, organizations can promote organizational success and employee well-being while maintaining their commitment to ethical behavior and upholding their values and principles.
-
 

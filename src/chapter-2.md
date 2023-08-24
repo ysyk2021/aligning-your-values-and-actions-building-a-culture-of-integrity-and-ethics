@@ -1,5 +1,3 @@
-Chapter 2: Overview of Integrity and Ethics in the Workplace
-============================================================
 
 Integrity and ethics are critical components of building a culture of integrity and ethics in the workplace. In this chapter, we will explore different perspectives and approaches to integrity and ethics, the impact of integrity and ethics on organizational performance, and techniques for overcoming common challenges in building a culture of integrity and ethics.
 

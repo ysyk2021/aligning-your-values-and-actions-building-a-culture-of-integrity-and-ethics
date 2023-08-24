@@ -1,4 +1,3 @@
-# Demonstrating Accountability and Responsibility
 
 In this chapter, we will explore the importance of demonstrating accountability and responsibility when leading with integrity and ethics. By taking responsibility for their actions and decisions, leaders can model ethical behavior and promote a culture of integrity and ethics in the workplace.
 

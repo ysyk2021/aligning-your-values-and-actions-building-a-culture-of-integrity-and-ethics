@@ -1,4 +1,3 @@
-# Recap of Key Points and Strategies
 
 Building a culture of integrity and ethics is critical for organizational success and employee well-being. In this book, we have explored the importance of understanding ethics and integrity, promoting integrity and ethics in the workplace, building a culture of integrity and ethics, and measuring and evaluating integrity and ethics.
 

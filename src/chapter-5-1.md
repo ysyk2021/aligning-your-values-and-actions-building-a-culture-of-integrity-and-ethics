@@ -1,4 +1,3 @@
-# Techniques for Promoting Integrity and Ethics in the Workplace
 
 In this chapter, we will explore specific techniques for promoting integrity and ethics in the workplace. By utilizing these techniques, organizations can create an environment where ethical behavior is valued and expected.
 

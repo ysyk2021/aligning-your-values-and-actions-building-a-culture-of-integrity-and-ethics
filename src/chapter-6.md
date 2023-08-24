@@ -1,5 +1,3 @@
-Chapter 6: Leading with Integrity and Ethics
-============================================
 
 In this chapter, we will explore the importance of leading with integrity and ethics. By modeling ethical behavior and promoting a culture of integrity and ethics, leaders can create a work environment that upholds organizational values and promotes overall success.
 

@@ -1,5 +1,3 @@
-Chapter 4: Understanding Ethics
-===============================
 
 Understanding ethics is critical for building a culture of integrity and ethics. In this chapter, we will explore techniques for understanding ethics, identifying types of ethical issues, and exploring the relationship between ethics and organizational culture.
 

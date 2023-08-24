@@ -1,5 +1,3 @@
-Chapter 3: Understanding Integrity
-==================================
 
 Integrity is a critical component of building a culture of integrity and ethics. In this chapter, we will explore techniques for understanding integrity, identifying types of integrity, and exploring the relationship between integrity and trust.
 

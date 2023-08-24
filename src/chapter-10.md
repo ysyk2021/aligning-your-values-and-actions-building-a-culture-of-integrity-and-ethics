@@ -1,5 +1,3 @@
-Chapter 10: Conclusion
-======================
 
 In this book, we have explored the importance of building a culture of integrity and ethics in the workplace. We discussed the challenges that organizations face when promoting ethical behavior and decision-making, as well as strategies for overcoming these challenges. In this final chapter, we will recap key points and strategies, provide final recommendations for building a culture of integrity and ethics, and suggest future directions for research and practice.
 

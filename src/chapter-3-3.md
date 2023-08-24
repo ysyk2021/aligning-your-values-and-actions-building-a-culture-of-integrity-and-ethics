@@ -1,4 +1,3 @@
-# Exploring the Relationship between Integrity and Trust
 
 Integrity and trust are closely related concepts in the workplace. In this chapter, we will explore the relationship between integrity and trust and how organizations can build trust through promoting integrity.
 

@@ -1,4 +1,3 @@
-# Techniques for Understanding Ethics
 
 Understanding ethics is critical for building a culture of integrity and ethics. In this chapter, we will explore techniques for understanding ethics and incorporating ethical principles into organizational decision-making.
 

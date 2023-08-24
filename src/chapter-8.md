@@ -1,5 +1,3 @@
-Chapter 8: Addressing Ethical Issues in the Workplace
-=====================================================
 
 Addressing ethical issues in the workplace is critical for building a culture of integrity and ethics. In this chapter, we will explore techniques for addressing ethical issues, creating an ethical decision-making framework, and managing conflicts of interest.
 

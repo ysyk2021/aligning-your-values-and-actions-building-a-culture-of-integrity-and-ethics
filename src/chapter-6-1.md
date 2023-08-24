@@ -1,4 +1,3 @@
-# Techniques for Leading with Integrity and Ethics
 
 In this chapter, we will explore techniques for leading with integrity and ethics. Leaders play a critical role in promoting a culture of integrity and ethics in the workplace, and by utilizing these techniques, they can model ethical behavior and encourage others to do the same.
 

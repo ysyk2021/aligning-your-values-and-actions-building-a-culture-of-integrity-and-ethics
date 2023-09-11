@@ -1,5 +1,4 @@
-Chapter 10: Techniques for Sustaining a Culture of Integrity and Ethics
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques for sustaining a culture of integrity and ethics within an organization. Building a culture of integrity is only the first step; it is equally important to maintain and reinforce ethical practices over time. This chapter will cover the following key points:
 

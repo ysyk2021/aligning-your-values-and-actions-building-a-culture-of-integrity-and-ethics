@@ -1,5 +1,4 @@
-Chapter 12: Celebrating Success
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of celebrating success in building a culture of integrity and ethics. Recognizing and celebrating achievements related to ethical behavior reinforces the value of integrity and motivates individuals and organizations to continue their ethical journey. This chapter will cover the following key points:
 

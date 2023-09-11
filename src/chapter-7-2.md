@@ -1,5 +1,4 @@
-Chapter 4: Incorporating Integrity and Ethics into Organizational Values
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of incorporating integrity and ethics into organizational values. By aligning these principles with an organization's core values, it becomes possible to build a culture that prioritizes ethical behavior and fosters a sense of integrity throughout all levels of the organization. This chapter will cover the following key points:
 

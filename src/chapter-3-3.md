@@ -1,5 +1,4 @@
-Chapter 7: Exploring the Relationship Between Integrity and Trust
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the intricate relationship between integrity and trust. These two concepts are closely intertwined and play a vital role in building a culture of integrity and ethics within an organization. This chapter will cover the following key points:
 

@@ -1,5 +1,4 @@
-Chapter 3: Establishing Clear Standards and Expectations
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of establishing clear standards and expectations in building a culture of integrity and ethics. By setting clear guidelines and defining expectations, organizations can ensure that their actions align with their stated values. This chapter will discuss the following key points:
 

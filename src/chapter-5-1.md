@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Promoting Integrity and Ethics in the Workplace
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques for promoting integrity and ethics in the workplace. By implementing these techniques, organizations can create an environment that encourages ethical behavior and fosters a culture of integrity. This chapter will cover the following key points:
 

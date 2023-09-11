@@ -1,5 +1,4 @@
-Chapter 5: Measuring and Evaluating Integrity and Ethics
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of measuring and evaluating integrity and ethics within an organization. By implementing effective measurement and evaluation strategies, organizations can assess the effectiveness of their efforts in building a culture of integrity and ensure ongoing improvement. This chapter will cover the following key points:
 

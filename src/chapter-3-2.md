@@ -1,5 +1,4 @@
-Chapter 8: Identifying Types of Integrity
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of integrity that exist within individuals and organizations. Understanding these different dimensions of integrity is crucial for developing a comprehensive understanding of ethical behavior and building a culture of integrity and ethics. This chapter will cover the following key points:
 

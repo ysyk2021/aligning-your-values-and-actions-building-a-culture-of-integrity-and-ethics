@@ -1,5 +1,4 @@
-Chapter 11: Continuous Learning and Improvement
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of continuous learning and improvement in building a culture of integrity and ethics. Embracing a mindset of ongoing growth and development is essential for individuals and organizations to stay current with ethical practices and adapt to changing circumstances. This chapter will cover the following key points:
 

@@ -1,5 +1,4 @@
-Chapter 9: Techniques for Understanding Integrity
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques for understanding integrity at both the individual and organizational levels. Understanding integrity is essential for individuals and organizations to align their values and actions, build a culture of ethics, and foster a strong foundation of integrity. This chapter will cover the following key points:
 

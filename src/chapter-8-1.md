@@ -1,5 +1,4 @@
-Chapter 13: Techniques for Addressing Ethical Issues in the Workplace
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques for addressing ethical issues in the workplace. Ethical issues can arise in any organization, and it is crucial to have effective strategies in place to address and resolve these challenges. This chapter will cover the following key points:
 
